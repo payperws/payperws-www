@@ -1,0 +1,32 @@
+{
+  "name": "payperws-www",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "version": "0.0.1",
+  "description": "Peer 2 Peer economy through APIs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payperws/gateway.git"
+  },
+  "keywords": [
+    "payperws",
+    "gateway",
+    "p22",
+    "api"
+  ],
+  "author": "Vlad Suciu, Alex Males, Alex Popa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/payperws/gateway/issues"
+  },
+  "homepage": "https://github.com/payperws/gateway#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
