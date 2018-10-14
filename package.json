@@ -26,6 +26,7 @@
   "homepage": "https://github.com/payperws/gateway#readme",
   "dependencies": {
     "@zeit/next-typescript": "^1.1.1",
+    "fork-ts-checker-webpack-plugin": "^0.4.10",
     "next": "^7.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
